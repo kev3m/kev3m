@@ -1,9 +1,7 @@
-# 💻 Keven Crisostomo
 
-## 😜 Bem vindo ao meu repositório ! 
-Atualmente, estudante autodidata na área da programação. 
+# Hiii folks, Welcome to my github!👋 I'm Keven Cris
 
- ## 😎 Focando em: 
- **HTML5, CSS3, JavaScript, Node.js.**
- ## 👀 De olho em: 
- **React.js, Python, MySQL, TypeScript, Bootstrap, Angular**
+Sometimes webKev, always webdev (not my best joke)
+
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kev3m&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
