@@ -5,7 +5,8 @@ Sometimes webKev, always webdev (not my best joke)
 
 ### aboutMe.js
 
-```onst kev = {
+```
+const kev = {
     pronouns: "he" | "him",
     code: [Javascript,Python, HTML, CSS],
     icouldTalkForHoursAbout : ["design", "economy", "philosophy", "fashion", "music", "anime"],
