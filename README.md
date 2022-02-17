@@ -8,7 +8,6 @@ Sometimes webKev, always webdev (not my best joke)
 - 🖥️ Computer Engineer student at State University of Feira de Santana - UEFS
 - 📚 I'm a native Portuguese speaker and I'm improving my English.
 - 👯 I’m looking to collaborate with other developers
-- 🤞 2022 Main goal: Find a job
 - 🕵🏼 Fun fact : I know what the Victoria's Secret is
 
 ### aboutMe.js
