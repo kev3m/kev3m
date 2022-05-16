@@ -1,7 +1,7 @@
 
 # Hiii folks, Welcome to my github!👋 I'm Keven Cris
 
-Sometimes webKev, always webdev (not my best joke)
+Sometimes Kev, always dev (not my best joke)
 
 ![tumblr_6f3cdcacd367af92338a938c1eef19d7_92019713_500](https://user-images.githubusercontent.com/52084984/154314293-c5725bff-701f-4cef-874e-74381c3c58b2.gif)
 
