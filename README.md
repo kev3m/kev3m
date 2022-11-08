@@ -3,17 +3,25 @@
 
 Sometimes Kev, always dev (not my best joke)
 
-<div class="container">
-<div align="left">
-<img src="https://user-images.githubusercontent.com/52084984/200451932-62876bf0-1b83-4730-8516-a2fc84efb3cd.gif" width="300px" />
-</div>
+<a href="[https://myoctocat.dev/@sw-yx/octocat](https://user-images.githubusercontent.com/52084984/200451932-62876bf0-1b83-4730-8516-a2fc84efb3cd.gif)">
+  <img align="right" src="https://user-images.githubusercontent.com/52084984/200451932-62876bf0-1b83-4730-8516-a2fc84efb3cd.gif" width="250px" />
+</a>
+<br>
+<br>
 
+- 💼 Searching for a job (trainee or intern).
 - 🖥️ Computer Engineer student at State University of Feira de Santana - UEFS
 - 📚 I'm a native Portuguese speaker and I'm improving my English.
 - 👯 I’m looking to collaborate with other developers
 
-</div>
+
+<br>
+<br>
+
 ### aboutMe.js
+
+
+
 
 ```javascript
 const kev = {
