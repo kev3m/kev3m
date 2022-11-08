@@ -3,13 +3,16 @@
 
 Sometimes Kev, always dev (not my best joke)
 
-![tumblr_6f3cdcacd367af92338a938c1eef19d7_92019713_500](https://imgur.com/a/soh1bh2)
+<div class="container">
+<div align="left">
+<img src="https://user-images.githubusercontent.com/52084984/200451932-62876bf0-1b83-4730-8516-a2fc84efb3cd.gif" width="300px" />
+</div>
 
 - 🖥️ Computer Engineer student at State University of Feira de Santana - UEFS
 - 📚 I'm a native Portuguese speaker and I'm improving my English.
 - 👯 I’m looking to collaborate with other developers
-- 🕵🏼 Fun fact : I know what the Victoria's Secret is
 
+</div>
 ### aboutMe.js
 
 ```javascript
