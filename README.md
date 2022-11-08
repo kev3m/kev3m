@@ -3,7 +3,7 @@
 
 Sometimes Kev, always dev (not my best joke)
 
-![tumblr_6f3cdcacd367af92338a938c1eef19d7_92019713_500](https://user-images.githubusercontent.com/52084984/154314293-c5725bff-701f-4cef-874e-74381c3c58b2.gif)
+![tumblr_6f3cdcacd367af92338a938c1eef19d7_92019713_500](https://imgur.com/a/soh1bh2)
 
 - 🖥️ Computer Engineer student at State University of Feira de Santana - UEFS
 - 📚 I'm a native Portuguese speaker and I'm improving my English.
