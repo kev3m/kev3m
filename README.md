@@ -9,7 +9,7 @@ Sometimes Kev, always dev (not my best joke)
 <br>
 <br>
 
-- 💼 Searching for a job (trainee or intern).
+- 💼 Intern at Fenix Systems
 - 🖥️ Computer Engineer student at State University of Feira de Santana - UEFS
 - 📚 I'm a native Portuguese speaker and I'm improving my English.
 - 👯 I’m looking to collaborate with other developers
